@@ -1,0 +1,6 @@
+1. This programe can download file from internet
+2. Size of the file might be up to 1gb (it might take a while)
+3. To type in terminal : ./srget -o filename link
+4. This downloading program can resume if it is interrupted
+5. If program is interrupted, it will crete file tail.txt
+6. If user continue download file till it's finish, the file tail.txt will be deleted automatically 
